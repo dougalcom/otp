@@ -1,7 +1,6 @@
 # otp
-One-time-pad message encryption program written in Python. Encrypt a text message using OTP encryption. Includes a built-in key generator when encrypting, or you may provide your own.
-
-<p>This software will encrypt or decrypt a text message.<br/>
+<p>One-time-pad message encryption program written in Python.<br/>
+This software will encrypt or decrypt a text message.<br/>
 This software utilizes an encryption technique that, if used properly, cannot be cracked.</p>
 
 <h2>Use Guide</h2>
