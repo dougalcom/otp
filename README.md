@@ -1,5 +1,5 @@
 # otp
-<p>One-time-pad message encryption program written in Python.<br/>
+<p>One-time-pad (OTP) message encryption program written in Python.<br/>
 This software will encrypt or decrypt a text message.<br/>
 This software utilizes an encryption technique that, if used properly, cannot be cracked.</p>
 
