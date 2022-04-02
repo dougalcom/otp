@@ -3,7 +3,7 @@
 This software will encrypt or decrypt a text message.<br/>
 This software utilizes an encryption technique that, if used properly, cannot be cracked.</p>
 
-<h2>Use Guide</h2>
+<h2>Use guide</h2>
 <ul>
 <li>The message and the key may only contain letters, numbers, spaces, periods, exclaimation marks, and question marks.</li>
 <li>The key must be at least as long as the message.</li>
