@@ -17,7 +17,7 @@ def deSubstitute(stringy):
     stringy = stringy.replace("#", ",")
     return stringy
 
-print("-- TKK 1.2 branch A --")
+print("-- otp 1.21 --")
 
 while (quitFlag == False):
     # inputs
